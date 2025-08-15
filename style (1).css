@@ -1,0 +1,26 @@
+div{
+    width: 600px;
+    height: 350px;
+    background-color: black;
+}
+
+img{
+    height: 350px;
+    float: left;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+button{
+    color: blue;
+}
+
+body{
+    background-image: url(https://as2.ftcdn.net/jpg/06/07/11/63/1000_F_607116305_KmbAoQU7RcjrqlKHiZQXxSDCR65ifgSV.jpg);
+}
